@@ -9,3 +9,5 @@ It also contains the main class
 The bank.java class stores all usernames and passwords, and an array of people. This array stores People objects, each with its unique id - its index.
 
 The People.java class represents one person.
+
+The bank.exe has to be downloaded to run and is the entire application packaged.
